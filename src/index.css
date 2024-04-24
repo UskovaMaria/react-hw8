@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+button {
+  padding: 10px;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+input {
+  height: 40px;
+  padding: 10px;
+}
+
+.user__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.user__input {
+  margin-bottom: 20px;                               
+}
+
